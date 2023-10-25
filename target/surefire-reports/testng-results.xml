@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11922" started-at="2023-09-11T18:05:27Z" finished-at="2023-09-11T18:05:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11922" started-at="2023-09-11T18:05:27Z" finished-at="2023-09-11T18:05:39Z">
+      <class name="com.automation.testcase.Login">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.automation.testcase.Login@5906ebcb]" name="openBrowser" duration-ms="10809" started-at="2023-09-11T23:35:27Z" finished-at="2023-09-11T23:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validateUser()[pri:0, instance:com.automation.testcase.Login@5906ebcb]" name="validateUser" duration-ms="1095" started-at="2023-09-11T23:35:38Z" finished-at="2023-09-11T23:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUser -->
+        <test-method status="PASS" signature="loginUser()[pri:0, instance:com.automation.testcase.Login@5906ebcb]" name="loginUser" duration-ms="0" started-at="2023-09-11T23:35:39Z" finished-at="2023-09-11T23:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+      </class> <!-- com.automation.testcase.Login -->
+      <class name="com.automation.testcase.Register">
+        <test-method status="PASS" signature="register()[pri:0, instance:com.automation.testcase.Register@5ad851c9]" name="register" duration-ms="0" started-at="2023-09-11T23:35:39Z" finished-at="2023-09-11T23:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- com.automation.testcase.Register -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
